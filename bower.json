@@ -1,0 +1,26 @@
+{
+  "name": "jquery-countcols",
+  "homepage": "https://github.com/pedroadame/jquery-countcols",
+  "authors": [
+    "Pedro Adame <pedro.a.1smr@gmail.com>"
+  ],
+  "description": "Counts the number of columns displayed in a row for a selector.",
+  "main": "dist/jquery.countcols.js",
+  "keywords": [
+    "countcols",
+    "jquery-countcols",
+    "count",
+    "columns"
+  ],
+  "license": "GNU",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.1.1"
+  }
+}

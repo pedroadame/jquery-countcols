@@ -1,0 +1,36 @@
+{
+  "name": "jquery-countcols",
+  "version": "0.0.1",
+  "description": "Counts the number of columns displayed in a row for a selector",
+  "main": "jquery.countcols.js",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.18.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-uglify": "^2.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedroadame/jquery-countcols.git"
+  },
+  "keywords": [
+    "countcols",
+    "jquery-countcols",
+    "jquery-plugin",
+    "count",
+    "columns"
+  ],
+  "author": "Pedro Adame <pedro.a.1smr@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/pedroadame/jquery-countcols/issues"
+  },
+  "homepage": "https://github.com/pedroadame/jquery-countcols#readme"
+}
